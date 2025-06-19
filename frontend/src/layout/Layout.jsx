@@ -7,7 +7,7 @@ export function Layout() {
         <div className="header-content">
           <h1>GEO Quiz</h1>
           <nav>
-            <Link to="/">Generate Challenge</Link>
+            <Link to="/">Generate Question</Link>
             <Link to="/history">History</Link>
           </nav>
         </div>
